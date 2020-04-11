@@ -35,11 +35,11 @@ Projet qui avait pour but de résoudre des labyrinthes personalisables et sauveg
 
 | ![https://github.com/aurelien-castel/DUT-Mar-2019-Labyrinthe/blob/master/images/4.png?raw=true](https://github.com/aurelien-castel/DUT-Mar-2019-Labyrinthe/blob/master/images/4.png?raw=true) | 
 | :--: | 
-| Début d'une recherche |
+| Début d'une recherche de sortie dans un labyrinthe |
 
 | ![https://github.com/aurelien-castel/DUT-Mar-2019-Labyrinthe/blob/master/images/5.png?raw=true](https://github.com/aurelien-castel/DUT-Mar-2019-Labyrinthe/blob/master/images/5.png?raw=true) | 
 | :--: | 
-| Fin d'une recherche |
+| Fin d'une recherche de sortie dans un labyrinthe |
 
 | ![https://github.com/aurelien-castel/DUT-Mar-2019-Labyrinthe/blob/master/images/6.png?raw=true](https://github.com/aurelien-castel/DUT-Mar-2019-Labyrinthe/blob/master/images/6.png?raw=true) | 
 | :--: | 
