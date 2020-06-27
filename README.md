@@ -18,7 +18,7 @@ Pour relancer une nouvelle fois il faut supprimer les .class
 | del /s *.class | find . -name \`*.class\` -exec rm -f {} \; |
 
 ## Résumé du projet
-Projet qui avait pour but de résoudre des labyrinthes personalisables et sauvegardables. Après avoir créé son labyrinthe, l'utilisateur peut le résoudre grâce à un algorithme déterministe. Pour mieux comprendre le fonctionnement de l'algorithme l'utilisateur peut dérouler l'algorithme pas à pas ou sinon le dérouler entièrement. L'algorithme peut aussi détecter si ce labyrinthe est solvable ou non. Après avoir terminé de résoudre son labyrinthe, l'utilisateur peut sauvegarder son labyrinthe. Grâce à un système d'encodage et de décodage le labyrinthe est sauvegardé dans un fichier et est chargeable la prochaine fois que l'utilisateur ouvrira le projet.
+Projet qui avait pour but de résoudre des labyrinthes personnalisables et sauvegardables. Après avoir créé son labyrinthe, l'utilisateur peut le résoudre grâce à un algorithme déterministe. Pour mieux comprendre le fonctionnement de l'algorithme l'utilisateur peut dérouler l'algorithme pas à pas ou sinon le dérouler entièrement. L'algorithme peut aussi détecter si ce labyrinthe est solvable ou non. Après avoir terminé de résoudre son labyrinthe, l'utilisateur peut sauvegarder son labyrinthe. Grâce à un système d'encodage et de décodage le labyrinthe est sauvegardé dans un fichier et est chargeable la prochaine fois que l'utilisateur ouvrira le projet.
 
 ## Images du projet
 | ![https://github.com/aurelien-castel/DUT-Mar-2019-Labyrinthe/blob/master/images/1.png?raw=true](https://github.com/aurelien-castel/DUT-Mar-2019-Labyrinthe/blob/master/images/1.png?raw=true) | 
